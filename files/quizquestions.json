@@ -1,0 +1,113 @@
+[
+
+{
+    "question": "What is the highest mountain in the Philippines?",
+    "choices": 
+	[
+        "A. Pulag",
+        "B. Halcon",
+        "C. Apo"
+    ],
+	"answer": "C"
+},
+
+{
+    "question": "What is the smallest province in the Philippines?",
+    "choices": 
+	[
+        "A. Siquijor",
+        "B. Batanes",
+        "C. Dinagat"
+    ],
+	"answer": "B"
+},
+
+{
+    "question": "Which province in the Philippines has the largest population?",
+    "choices": 
+	[
+        "A. Laguna",
+        "B. Cebu",
+        "C. Cavite"
+    ],
+	"answer": "B"
+},
+
+{
+    "question": "Which city in the Philippines is the richest in terms of assets?",
+    "choices": 
+	[
+        "A. Taguig",
+        "B. Makati",
+        "C. Pasig"
+    ],
+	"answer": "B"
+},
+
+{
+    "question": "What continent is the Philippines in?",
+    "choices": 
+	[
+        "A. Europe",
+        "B. Asia ",
+        "C. Australia"
+    ],
+	"answer": "B"
+},
+
+{
+    "question": "What religion is more prominent in the Philippines?",
+    "choices": 
+	[
+        "A. Buddhism",
+        "B. Muslim",
+        "C. Roman Catholic"
+    ],
+	"answer": "C"
+},
+
+{
+    "question": "What is the Philippines' national flower?",
+    "choices": 
+	[
+        "A. Sampaguita",
+        "B. Waling-Waling",
+        "C. Bougainvillea"
+    ],
+	"answer": "A"
+},
+
+{
+    "question": "What is the Philippines' national tree?",
+    "choices": 
+	[
+        "A. Yakal",
+        "B. Narra",
+        "C. Molave"
+    ],
+	"answer": "B"
+},
+
+{
+    "question": "What is the Philippines' national bird?",
+    "choices": 
+	[
+        "A. Maya",
+        "B. Philippine Eagle",
+        "C. Philippine Cockatoo"
+    ],
+	"answer": "B"
+},
+
+{
+    "question": "What is the Philippines' national animal?",
+    "choices": 
+	[
+        "A. Tarsier",
+        "B. Carabao",
+        "C. Tamaraw"
+    ],
+	"answer": "B"
+}
+
+]
